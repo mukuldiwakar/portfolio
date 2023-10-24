@@ -53,3 +53,4 @@ Feel free to explore the code, contribute, or use this repository as a template 
 
 Thank you for visiting my portfolio!
 
+![Website Recording](./images/portfolio.gif)
