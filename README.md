@@ -2,6 +2,9 @@
 
 Welcome to my personal portfolio website hosted on GitHub! This website is designed to showcase my work, provide information about myself, and offer a way for visitors to get in touch with me.
 
+[![Visit my website](https://img.shields.io/badge/Visit%20my%20website-%230A0A0A.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAWElEQVR42mP8/wcAAwAB/ABeCR5YAAAAASUVORK5CYII=&link=https://mukuldiwakar.netlify.app/)](https://mukuldiwakar.netlify.app/)
+
+
 ## Table of Contents
 - [About](#about)
 - [Work](#work)
